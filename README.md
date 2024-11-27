@@ -1,8 +1,7 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 
-![Banner](https://github.com/user-attachments/assets/068f48bd-1e7b-47e0-b578-fd4478d70b2b)
-
+![Black LinkedIn Banner](https://github.com/user-attachments/assets/13545b96-c599-491b-9e08-21b0204c303f)
 
 With 3 years of sales tactics and experience, deciding to adventure into the world of programming, joining AXSOS Academy was the best decision I've made, it gave amazing skills and soft skills, allowing me to change my life 180°, now with the most helpful WEB Development langauges learned, feeling ready to conquer whatever obstacles come my way, I am ready to face the big world of programming!
 
