@@ -21,7 +21,7 @@ With 3 years of sales tactics and experience, deciding to adventure into the wor
 
 ## How to reach me?
 
-- <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="auto" width="20"/>[LinkedIn](www.linkedin.com/in/loaiazaidan/)
+- <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="auto" width="20"/> [LinkedIn](www.linkedin.com/in/loaiazaidan/)
 - <i class="devicon-github-original"></i>
 <!--
 **loaizaidan/loaizaidan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
