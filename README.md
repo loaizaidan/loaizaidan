@@ -1,3 +1,6 @@
+
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+            
 ![The Banner](https://github.com/user-attachments/assets/97f37ab1-c508-4e61-b604-2d032227bc58)
 
 With 3 years of sales tactics and experience, deciding to adventure into the world of programming, joining AXSOS Academy was the best decision I've made, it gave amazing skills and soft skills, allowing me to change my life 180°, now with the most helpful WEB Development langauges learned, feeling ready to conquer whatever obstacles come my way, I am ready to face the big world of programming!
@@ -22,7 +25,9 @@ With 3 years of sales tactics and experience, deciding to adventure into the wor
 ## How to reach me?
 
 - <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="auto" width="20"/> [LinkedIn](www.linkedin.com/in/loaiazaidan/)
-- <i class="devicon-github-original"></i>
+- 
+            <i class="devicon-github-original"></i>
+          
 <!--
 **loaizaidan/loaizaidan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
